@@ -24,3 +24,9 @@ To store a chunk of code as a blueprint, highlight it, and while in visual mode 
 To generate a variation on an existing blueprint, write a description of the
 code you need, highlight it, and while in visual mode use:
 `leader-0`
+
+## Community
+
+Like what you see, or looking for more people working on the future of
+programming with LLMs? Come join us in the [Promptable Architecture
+Discord](https://discord.gg/sjTJszPwXt)
